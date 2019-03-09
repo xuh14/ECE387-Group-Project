@@ -33,6 +33,10 @@ which is personalized based on user’s past experience.
 
 
 Procedure:
+We would first need to implement imaging software of some sort in order to detect when a person is in the target area, possibly 
+a light source which could be infrared. The infrared light would need to communicate with a sensor to tell the device the location 
+of the target individual. When the indivual can be detected, we need to use imaging software of some sort to be able to compare the movement
+of the individual to the correct movement for the intended exercise.
 
 
 Work partition:
