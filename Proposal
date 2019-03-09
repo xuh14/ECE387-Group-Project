@@ -1,0 +1,40 @@
+Goal
+possible features
+Procedure
+Work partition
+
+Description: Multifunctional Exercise Monitor
+
+Goal:
+
+The goal of this group project is to design and implement a multifunctional exercise monitor 
+that can monitor the correctness and count the number of the user’s movement to form a dynamic 
+user profile, including average correctness, finish time or other user setting features. Both
+the “goal” and result can be set and seen by the user, thus. It can improve user’s long term workout
+performance and efficiency in a more data based routine.
+
+
+possible features:
+
+1.The basic functionality is to count the number of lift when doing exercise such as Incline
+Dumbbell Hammer Curl or Barbell Bench Press. The general idea is to measure 3d movement of the 
+device, which is sticked on hands or equipments. Then from the directional distance change, 
+compared with calibrated upper and lower bound, it can determine whether the user completes one run.
+
+2. It has LCD display for user interface.
+
+3.It also has internal RAM that can be set by user, including number of exercises needed to 
+complete, or at what “score”.
+
+4. The device not only can collect movement data, it also can analyze the data to reflect 
+user’s body conditions from data including movement complete rate, or movement complete percentage.
+Then, user can have better acknowledgement of their experience. It also introduces a “score” system,
+which is personalized based on user’s past experience.
+
+
+Procedure:
+
+
+Work partition:
+
+
